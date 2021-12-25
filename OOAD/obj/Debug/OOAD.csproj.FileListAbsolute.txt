@@ -84,4 +84,6 @@ D:\Small Projects\emarketing\OOAD\bin\PagedList.Mvc.dll
 D:\Small Projects\emarketing\OOAD\bin\Pagination.dll
 D:\Small Projects\emarketing\OOAD\bin\PagedList.xml
 D:\Small Projects\emarketing\OOAD\bin\PagedList.Mvc.xml
-D:\Small Projects\emarketing\OOAD\obj\Debug\OOAD.csprojResolveAssemblyReference.cache
+D:\Small Projects\emarketing\OOAD\obj\Debug\OOAD.csproj.AssemblyReference.cache
+D:\Small Projects\emarketing\OOAD\obj\Debug\OOAD.csproj.CoreCompileInputs.cache
+D:\Small Projects\emarketing\OOAD\obj\Debug\OOAD.csproj.CopyComplete
